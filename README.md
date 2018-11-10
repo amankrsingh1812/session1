@@ -1,3 +1,3 @@
 # session1
 Example Project
-aman
+aman is great.
